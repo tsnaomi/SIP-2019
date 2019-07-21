@@ -1,4 +1,3 @@
-
 # Update this text to match your story.
 start = '''
 You wake up one morning and find that you aren't in your bed; you aren't even in your room.
@@ -9,14 +8,19 @@ There is a hallway to your right and to your left.
 
 print(start)
 
-print("Type 'left' to go left or 'right' to go right.") # Update to match your story. 
-user_input = input()
+# Update this text to match your story.
+user_input = input("Type 'left' to go left or 'right' to go right.")
+
 if user_input == "left":
-    print("You decide to go left and...") # Update to match your story.
-    
-    # Continue code to finish story.
- 
+
+    # Update this text to match your story.
+    print("You decide to go left and...")
+
+    # Continue the code to finish your story!
+
 elif user_input == "right":
-    print("You choose to go right and ...") # Update to match your story.
-    
-    # Continue code to finish story.
+
+    # Update this text to match your story.
+    print("You choose to go right and ...")
+
+    # Continue the code to finish your story!
